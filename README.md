@@ -1,7 +1,4 @@
-A microservice architecture implementation on spring boot.
-
-<---- under development ---->
-
+# Microservice Architecture with Spring Boot
 
 ## Overview:
 This project is a microservice architecture designed using Spring Boot framework, which consists of multiple services that work together to provide a complete solution. The services include Order Service, Inventory Service, Product Service, API Gateway, Discovery Server, Notification Service, and Keycloak.
