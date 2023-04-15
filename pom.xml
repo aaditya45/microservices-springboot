@@ -70,17 +70,11 @@
                 <configuration>
                     <from>
                         <image>openjdk:alpine</image>
-                        <auth>
-                            <username>aaditya450</username>
-                            <password>Aaditya#12</password>
-                        </auth>
+                        
                     </from>
                     <to>
                         <image>registry.hub.docker.com/aaditya450/${project.artifactId}</image>
-                        <auth>
-                            <username>aaditya450</username>
-                            <password>Aaditya#12</password>
-                        </auth>
+                        
                     </to>
                 </configuration>
             </plugin>
